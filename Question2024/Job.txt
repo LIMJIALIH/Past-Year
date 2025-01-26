@@ -1,0 +1,4 @@
+Job Name: Job2, Partition: gpu-a100, Memory: 8GB, QoS: long
+Job Name: Job4, Partition: cpu-epyc-genoa, Memory: 8GB, QoS: long
+Job Name: Job3, Partition: gpu-v100s, Memory: 16GB, QoS: debug
+Job Name: Job1, Partition: cpu-epyc-genoa, Memory: 4GB, QoS: normal
